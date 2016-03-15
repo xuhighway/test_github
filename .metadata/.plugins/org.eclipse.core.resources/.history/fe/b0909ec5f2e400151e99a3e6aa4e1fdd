@@ -1,0 +1,12 @@
+
+package cn.hywel.testproject.adapter;
+
+import java.util.List;
+
+import android.content.Context;
+
+public class BasicAdapter {
+    private List<T> mList;
+
+    private Context mContext;
+}

@@ -1,0 +1,8 @@
+
+package cn.hywel.testproject.adapter;
+
+import android.widget.BaseAdapter;
+
+public class MyAdapter {
+
+}
