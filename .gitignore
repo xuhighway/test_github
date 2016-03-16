@@ -9,6 +9,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.metadata/
+.idea/
+gen/
+.iml
 
 # Eclipse Core
 .project
@@ -76,5 +80,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 #IDEA files
-.iml
+*.iml
 .txt
